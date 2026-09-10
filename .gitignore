@@ -1,0 +1,18 @@
+# Compiled executable and object files
+*.exe
+*.app
+*.out
+*.o
+*.obj
+a.out
+
+# Visual Studio temporary files
+.vs/
+*.pdb
+*.ilk
+*.suo
+
+# VS Code Configuration & C++ Extension Cache
+.vscode/
+.cache/
+ipch/
